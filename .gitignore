@@ -6,7 +6,7 @@
 *.tfstate.backup
 
 # Variable files (may contain secrets)
-*.tfvars
+
 *.tfvars.json
 *.tfvars.yaml
 *.tfvars.yml
@@ -35,6 +35,3 @@ Thumbs.db
 .vscode/
 .idea/
 *.log
-
-terraform.tfvars
-terraform.tfvars*.
